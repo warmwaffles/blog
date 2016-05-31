@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/warmwaffles
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.mattjohnston.co
+  * I am warmwaffles (https://keybase.io/warmwaffles) on keybase.
+  * I have a public key with fingerprint 8D46 2C38 8B69 473E 3007  F0C3 91DE 1226 B783 7808
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.8"
+        },
+        "key": {
+            "fingerprint": "8d462c388b69473e3007f0c391de1226b7837808",
+            "host": "keybase.io",
+            "key_id": "91DE1226B7837808",
+            "uid": "ac3740bc36ea621fefffb8e1bb932f00",
+            "username": "warmwaffles"
+        },
+        "merkle_root": {
+            "ctime": 1430682313,
+            "hash": "74b502a84e4a5708fb327c339020068589dee58133f91dbd34721a095204e0e58ee1c01da186afa447773748ca22e45b854cce1cad1c1d4af5b3d96710b9457b",
+            "seqno": 214526
+        },
+        "service": {
+            "hostname": "www.mattjohnston.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1430682331,
+    "expire_in": 157680000,
+    "prev": "9185751650bbfde969686d67adb106685ac8f91333713879d63f9e35a099fb67",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdkltsFUUYx8+hFUqFhEtMNJDQrLEP0hxmdq57XhQE08QoGIoNJvRkZna2Z2nP
+7mF3e85pacHaECDxUmJIa4jyoGCDqbeklkZFFAJeMIoIoSLVxBiDMfrAiy9eZk9K
+UOdpZ+f3/ef7/78ZXdqQac4emlvROj1Sa8p+fkNmtj08cG23JUO338rvtlSvr4Mk
+/QpESVt5q0f3SxHrnB+2BKGrczvjlnmmzaroKPbDwFAgx3LcGmpL8bTY84NuHZUj
+P9WyuIuprRDnkjqYIY0AYB5QyIGuhrZNJeOIccCNZDGMk//catU1C75r/jpw46aU
+33Cb76sfCIUYBlIhqgW1oac9z5NcQykdZHsApGCso3lLVRGVqsLzenWctlzSUU+v
+LkRhWPetEj+lIEaAchtBZJoScdHUMSwJsAXHGgvCAPcksplCyAE2MCzhjqs14RAh
+zziTLsLMhgI4xAZYA3OiNVQAugJyKjyBMWPM9M2VsG2NieQEK2UQ4UIFXSw8IpHr
+UAaBdDBh0riI9a4gtPI2xMSmQ+k+qvhKp32nyd0yWK3mSiJJdobFIE7CIKfSGMtR
+mIQq7DVAMUnK+dR7crK/XK/QsjCvVZB+4Jrx/Xu+0KD/ywXBNkvXyn6kC35KEEY5
+MCu9R1fqw+KEEUgJkNJztUMdyqlLmXAlBNTEJRQ3OSGEGEScOS41sWlETGCOJym7
+7RZi06joNpqx3x2IpC/S1tDB7OrGTLY5s/COBekLzjQvXnbrWd+ca8qM/3L5bOeT
+s5MXHjoxeE+t8MiuBQ/8HmR+Wnjj8MpVHY9Ndyx6Ds4c2H5k+V5/2eDskmMXRzf3
+ZJ6/uKXSdP4zWvw7GB7+8vWv0cTTL67vvH7qzTOj1sTk8fvPdZGzr1ZP37fi4BXR
+Pjl8136SPdd1uTRwbey1/NXspWP71NFm8M32p5aOnVAzi/94F3b+8OvHtdY1s4da
+bn63//r6jiWfNAycPvBKbWNPMM2njt49siXYW/t2zY49z37YPhPOjbdeOnylbyoZ
+37d108TIn3d+f2YdmPqgNXz7vcq2VWN69RMT69Z+9cULV7dufqNxUD/TXj3y+Ed/
+XVj+/oaXG156cMen97acemfPb2t/fLTr57ca/wE=
+=ekhT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/warmwaffles
+
+==================================================================

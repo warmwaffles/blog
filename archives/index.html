@@ -1,0 +1,13 @@
+---
+layout: page
+title: Archives
+---
+
+{% for post in site.posts %}
+  <article role="article">
+    <header>
+      <h3><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></h3>
+      <time datetime="{{ post.date | date: '%F' }}">{{ post.date | date:'%B %d, %Y' }}</time>
+    </header>
+  </article>
+{% endfor %}

@@ -1,0 +1,6 @@
+<header>
+  <h1><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h1>
+  <time datetime="{{ page.date | date: '%F' }}">{{ page.date | date:'%B %d, %Y' }}</time>
+  {% assign categories = page.categories %}
+  {% include categories.html %}
+</header>

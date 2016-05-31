@@ -1,0 +1,5 @@
+<ul class="category-list">
+{% for category in categories %}
+  <li>{{ category | category_link }}</li>
+{% endfor %}
+</ul>
