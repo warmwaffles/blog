@@ -7,7 +7,6 @@ sharing: false
 categories:
   - rails
   - ruby
-  - error
 ---
 
 As I work on API projects I find myself having to track down status codes and

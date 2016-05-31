@@ -7,7 +7,6 @@ sharing: false
 categories:
   - ruby
   - rails
-  - state machine
 ---
 
 A state machine is an interesting design pattern.

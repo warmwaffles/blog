@@ -5,6 +5,9 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
+    <time datetime="{{ page.date | date: '%F' }}">{{ page.date | date:'%B %d, %Y' }}</time>
+    {% assign categories = page.categories %}
+    {% include categories.html %}
   </header>
 
   <div class="post-content">

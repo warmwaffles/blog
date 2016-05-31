@@ -6,7 +6,6 @@ comments: false
 sharing: false
 categories:
   - ruby
-  - mixin
 ---
 
 Mixins are a bit of a touchy spot for me. I am in a love hate relationship when
