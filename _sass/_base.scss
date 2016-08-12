@@ -177,10 +177,13 @@ pre {
 /**
  * Clearfix
  */
-%clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
+%clearfix {
+
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
 }
 
 
@@ -188,13 +191,16 @@ pre {
 /**
  * Icons
  */
-.icon > svg {
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    vertical-align: middle;
+.icon {
 
-    path {
-        fill: $grey-color;
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
     }
 }

@@ -128,8 +128,6 @@ Below is *Avdi Grimm*'s presentation on exeption handling in Ruby and what can
 be done to clean up code and is an all around way to make yourself more educated
 on Ruby. Take a look.
 
-{% bliptv AYKj1AkC %}
-
 ## Resources
 
   * [Exceptional Ruby][exceptional-ruby]

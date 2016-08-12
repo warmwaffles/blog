@@ -1,19 +1,20 @@
-title: Matthew Johnston
-subtitle: Professional Code Janitor
-url: http://www.mattjohnston.co
-simple_search: http://google.com/search
-email: warmwaffles@gmail.com
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+title: Matthew Johnston
+email: warmwaffles@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My adventures through code and time. Ranging from C, Ruby, Java, and the
   occassional DIY projects.
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.mattjohnston.co" # the base hostname & protocol for your site
 twitter_username: warmwaffle
 github_username:  warmwaffles
-
-# Build settings
-markdown: kramdown
 
 # Filtering Content
 show_drafts: null
@@ -54,29 +55,22 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 
-# Pagination
-paginate_path: /blog/page/:num
-paginate: 5
+include:
+  - .htaccess
+  - keybase.txt
 
-# Outputting
-permalink: /blog/:year/:month/:day/:title
-date_format: ordinal
-timezone: null
-quiet:    false
-defaults: []
-
-# Markdown Processors
-redcarpet:
-  extensions:
-    - fenced_code_blocks
-    - tables
-    - autolink
-
-# Deployment Settings
-rsync:
-  user: warmwaffles
-  host: mattjohnston.co
-  root: /var/www/www.mattjohnston.co
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - Mercfile
+  - lib
+  - .bowerrc
+  - bower.json
+  - package.json
+  - TODO
+  - node_modules
+  - bower_modules
 
 # Plugin: jekyll-assets
 assets:
@@ -95,6 +89,17 @@ assets:
 
 # Plugin: jekyll-sitemap
 sitemap: true
+
+# Pagination
+paginate_path: /blog/page/:num
+paginate: 5
+
+# Outputting
+permalink: /blog/:year/:month/:day/:title
+date_format: ordinal
+timezone: null
+quiet:    false
+defaults: []
 
 google_analytics:
   tracking_id: UA-28154723-1

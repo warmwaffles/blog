@@ -194,7 +194,16 @@
     font-size: 24px;
 }
 
-
+article {
+  h1 {
+    a {
+      font-size: 42px;
+      letter-spacing: -1px;
+      line-height: 1;
+    }
+  }
+  margin-bottom: 40px;
+}
 
 /**
  * Posts
