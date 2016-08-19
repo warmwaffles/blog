@@ -60,7 +60,7 @@
   .sx    { color: $hljs-string; } // Literal.String.Other
   .vc    { color: $hljs-name; } // Name.Variable.Class
   .vg    { color: $hljs-name; } // Name.Variable.Global
-  .vi    { color: $hljs-name; } // Name.Variable.Instance
+  .vi    { color: $hljs-insance-variable; } // Name.Variable.Instance
   .w     { color: #bbb; } // Text.Whitespace
 }
 
