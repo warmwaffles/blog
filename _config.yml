@@ -63,7 +63,7 @@ baseurl: "" # does not include hostname
 show_dir_listing: false
 
 # Outputting
-permalink: /posts/:year/:month/:day/:title
+permalink: /posts/:year/:month/:day/:title/
 paginate_path: /posts/page/:num
 paginate: 5
 timezone: null
