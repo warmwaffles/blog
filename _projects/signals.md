@@ -1,13 +1,10 @@
 ---
-layout: page
-title: Projects
+layout: project
+title: Signals
 date: 2015-03-14 12:00:00
-comments: false
 ---
 
-This is a list of all of the projects that I am involved in.
-
-# [Signals](https://github.com/warmwaffles/signals)
+[source code](https://github.com/warmwaffles/signals)
 
 A light-weight pub-sub ruby library that allows for event triggered blocks to be
 used.
@@ -38,14 +35,3 @@ class UsersController < ApplicationController
   end
 end
 ```
-
-# [Skeleton](https://github.com/warmwaffles/skeleton)
-
-Allows you to define swagger compatible documentation within ruby using a nice
-DSL.
-
-# [Yukata](https://github.com/warmwaffles/yukata)
-
-# [Wellness](https://github.com/warmwaffles/wellness)
-
-# [Sublime Text Settings](https://github.com/warmwaffles/sublime-settings)

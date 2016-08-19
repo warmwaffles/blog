@@ -1,0 +1,101 @@
+/**
+ * Syntax highlighting styles
+ */
+.highlight {
+  $comment: #777279;
+  $keyword: #ebde68;
+  $operator: #d0d4d7;
+  $error: #a61717;
+  $string: #c1ef65;
+  $regex: #e9c062;
+  $symbol: #77bcd7;
+  $tag: #96cbfe;
+  $number: #77bcd7;
+  $hex: #c6c5fe;
+  $class: #c1ef65;
+  $name_var: #c1ef65;
+  $property: #ffffb6;
+  $method: #ffffb6;
+  $name: #77bcd7;
+  $namespace: #77bcd7;
+  $attribute: #ebde68;
+  $constant: #c1ef65;
+  $variable: #77bcd7;
+
+  background: #272b2d;
+
+  overflow-y: hidden;
+  overflow-x: auto;
+
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+
+  pre {
+    margin: 0;
+  }
+
+  .highlighter-rouge & {
+    background: #272b2d;
+  }
+
+  .c     { color: $comment; font-style: italic; } // Comment
+  .err   { color: $error; background-color: #e3d2d2; } // Error
+  .k     { color: $keyword; font-weight: bold; } // Keyword
+  .o     { color: $operator; font-weight: bold; } // Operator
+  .cm    { color: $comment; font-style: italic; } // Comment.Multiline
+  .cp    { color: $comment; font-weight: bold; } // Comment.Preproc
+  .c1    { color: $comment; font-style: italic; } // Comment.Single
+  .cs    { color: $comment; font-weight: bold; font-style: italic; } // Comment.Special
+  .gd    { color: #000; background-color: #fdd; } // Generic.Deleted
+  .gd .x { color: #000; background-color: #faa; } // Generic.Deleted.Specific
+  .ge    { font-style: italic; } // Generic.Emph
+  .gr    { color: #a00 } // Generic.Error
+  .gh    { color: #999 } // Generic.Heading
+  .gi    { color: #000; background-color: #dfd; } // Generic.Inserted
+  .gi .x { color: #000; background-color: #afa; } // Generic.Inserted.Specific
+  .go    { color: #888 } // Generic.Output
+  .gp    { color: #555 } // Generic.Prompt
+  .gs    { font-weight: bold; } // Generic.Strong
+  .gu    { color: #aaa } // Generic.Subheading
+  .gt    { color: #a00 } // Generic.Traceback
+  .kc    { color: $keyword; font-weight: bold; } // Keyword.Constant
+  .kd    { color: $keyword; font-weight: bold; } // Keyword.Declaration
+  .kp    { color: $keyword; font-weight: bold; } // Keyword.Pseudo
+  .kr    { color: $keyword; font-weight: bold; } // Keyword.Reserved
+  .kt    { color: $keyword; font-weight: bold; } // Keyword.Type
+  .m     { color: $symbol; } // Literal.Number
+  .s     { color: $string; } // Literal.String
+  .na    { color: $attribute; } // Name.Attribute
+  .nb    { color: $name; } // Name.Builtin
+  .nc    { color: $class; font-weight: bold; } // Name.Class
+  .no    { color: $constant; } // Name.Constant
+  .ni    { color: $variable; } // Name.Entity
+  .ne    { color: $method; font-weight: bold; } // Name.Exception
+  .nf    { color: $method; font-weight: bold; } // Name.Function
+  .nn    { color: $namespace; } // Name.Namespace
+  .nt    { color: $tag; } // Name.Tag
+  .nv    { color: $variable; } // Name.Variable
+  .ow    { color: $operator; font-weight: bold; } // Operator.Word
+  .w     { color: #bbb; } // Text.Whitespace
+  .mf    { color: $number; } // Literal.Number.Float
+  .mh    { color: $hex; } // Literal.Number.Hex
+  .mi    { color: $number; } // Literal.Number.Integer
+  .mo    { color: $hex; } // Literal.Number.Oct
+  .sb    { color: $string; } // Literal.String.Backtick
+  .sc    { color: $string; } // Literal.String.Char
+  .sd    { color: $string; } // Literal.String.Doc
+  .s2    { color: $string; } // Literal.String.Double
+  .se    { color: $string; } // Literal.String.Escape
+  .sh    { color: $string; } // Literal.String.Heredoc
+  .si    { color: $string; } // Literal.String.Interpol
+  .sx    { color: $string; } // Literal.String.Other
+  .sr    { color: $regex; } // Literal.String.Regex
+  .s1    { color: $string; } // Literal.String.Single
+  .ss    { color: $symbol; } // Literal.String.Symbol
+  .bp    { color: #999; } // Name.Builtin.Pseudo
+  .vc    { color: $name_var; } // Name.Variable.Class
+  .vg    { color: $name_var; } // Name.Variable.Global
+  .vi    { color: $name_var; } // Name.Variable.Instance
+  .il    { color: $number; } // Literal.Number.Integer.Long
+}

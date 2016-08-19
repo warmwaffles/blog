@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Matthew Johnston
 email: warmwaffles@gmail.com
@@ -16,10 +9,38 @@ url: "http://www.mattjohnston.co" # the base hostname & protocol for your site
 twitter_username: warmwaffle
 github_username:  warmwaffles
 
+# Where things are
+source: .
+destination:  ./_site
+plugins_dir:  _plugins
+layouts_dir:  _layouts
+data_dir:     _data
+includes_dir: _includes
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+
+# Handling Reading
+safe: false
+include:
+  - .htaccess
+  - keybase.txt
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - TODO
+  - tmp
+keep_files: []
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 # Filtering Content
 show_drafts: null
 limit_posts: 0
-future:      true
+future:      false
 unpublished: false
 
 # Plugins
@@ -29,53 +50,58 @@ gems:
   - jekyll-assets
   - jekyll-paginate
   - rouge
-  - redcarpet
+  - kramdown
   - uglifier
 
-include:
-  - .htaccess
-  - keybase.txt
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - Mercfile
-  - lib
-  - .bowerrc
-  - bower.json
-  - package.json
-  - TODO
-  - node_modules
-  - bower_modules
-
 # Conversion
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
+incremental: false
 
-include:
-  - .htaccess
-  - keybase.txt
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
+show_dir_listing: false
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - Mercfile
-  - lib
-  - .bowerrc
-  - bower.json
-  - package.json
-  - TODO
-  - node_modules
-  - bower_modules
+# Outputting
+permalink: /blog/:year/:month/:day/:title
+paginate_path: /blog/page/:num
+paginate: 5
+timezone: null
+
+quiet:    false
+verbose:  false
+defaults: []
+
+liquid:
+  error_mode: warn
+
+sass:
+  style: compressed
+
+# Markdown Processors
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+
+# Plugin: jekyll-sitemap
+sitemap: true
 
 # Plugin: jekyll-assets
 assets:
   dirname: assets
   baseurl: /assets/
+  digest: true
   sources:
     - _assets/javascripts
     - _assets/stylesheets
@@ -84,26 +110,6 @@ assets:
   css_compressor: sass
   cachebust: hard
   cache: false
-  gzip: [ text/css, application/javascript ]
   debug: false
-
-# Plugin: jekyll-sitemap
-sitemap: true
-
-# Pagination
-paginate_path: /blog/page/:num
-paginate: 5
-
-# Outputting
-permalink: /blog/:year/:month/:day/:title
-date_format: ordinal
-timezone: null
-quiet:    false
-defaults: []
-
-google_analytics:
-  tracking_id: UA-28154723-1
-
-gravatar:
-  hash: 194f2c377bafdebb453e07413ca9294f
-  size: 240
+  features:
+    liquid: true

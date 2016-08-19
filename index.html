@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
   {% for post in paginator.posts %}
     {% include article.html %}
   {% endfor %}
@@ -22,7 +21,4 @@ layout: default
       <span class="next ">Next</span>
     {% endif %}
   </div>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
