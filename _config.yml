@@ -16,11 +16,6 @@ plugins_dir:  _plugins
 layouts_dir:  _layouts
 data_dir:     _data
 includes_dir: _includes
-collections:
-  posts:
-    output: true
-  projects:
-    output: true
 
 # Handling Reading
 safe: false
@@ -68,14 +63,29 @@ baseurl: "" # does not include hostname
 show_dir_listing: false
 
 # Outputting
-permalink: /blog/:year/:month/:day/:title
-paginate_path: /blog/page/:num
+permalink: /posts/:year/:month/:day/:title
+paginate_path: /posts/page/:num
 paginate: 5
 timezone: null
 
 quiet:    false
 verbose:  false
-defaults: []
+
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+    permalink: /projects/:path/
+    index: projects.html
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "pages"
+    values:
+      layout: "project"
+
 
 liquid:
   error_mode: warn

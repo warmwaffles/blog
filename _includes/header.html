@@ -1,8 +1,11 @@
-<nav class="main-nav">
-  <a href="/">Home</a>
-  <a href="/resume">Resume</a>
-  <a href="/projects">Projects</a>
-  <a href="/archives">Archives</a>
-
-  <a class="cta" href="/feed.xml">Subscribe</a>
-</nav>
+<header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="{{ site.baseurl }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav">
+        {% include navigation.html %}
+      </nav>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</header>

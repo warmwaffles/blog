@@ -2,8 +2,6 @@
 layout: post
 title: Ruby Mixins
 date: 2015-01-17 12:00:00
-comments: false
-sharing: false
 categories:
   - ruby
 ---

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Skeleton
 date: 2015-03-14 12:00:00
 ---

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Signals
 date: 2015-03-14 12:00:00
 ---
