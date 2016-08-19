@@ -21,7 +21,7 @@
   .gt    { color: #a00 } // Generic.Traceback
   .gu    { color: #aaa } // Generic.Subheading
   .il    { color: $hljs-number; } // Literal.Number.Integer.Long
-  .k     { color: $hljs-keyword; font-weight: bold; } // Keyword
+  .k     { color: $hljs-keyword; font-weight: 600; } // Keyword
   .kc    { color: $hljs-keyword; } // Keyword.Constant
   .kd    { color: $hljs-keyword; } // Keyword.Declaration
   .kp    { color: $hljs-keyword; } // Keyword.Pseudo
