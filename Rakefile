@@ -4,11 +4,11 @@ task :clean do
   sh("bundle exec jekyll clean")
 end
 
-task :up => :clean do
+task :up do
   exec("bundle exec jekyll serve")
 end
 
-task :build => :clean do
+task :build do
   sh("bundle exec jekyll build")
 end
 
