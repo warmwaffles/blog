@@ -2,6 +2,8 @@ require "rake"
 
 task :clean do
   sh("bundle exec jekyll clean")
+  rm_rf(".asset-cache")
+  rm_rf(".sass-cache")
 end
 
 task :up do

@@ -14,7 +14,7 @@ As a Rails application grows and evolves. Fat models often become rampant in the
 application. ActiveRecord callbacks are used and models start interacting with
 other models in ways they should not.
 
-{% image memes/activerecord-bad-time.jpg %}
+{% asset memes/activerecord-bad-time.jpg %}
 
 Enter the idea of "dumb data objects". It is nothing more than a simple data
 structure. It holds state and that is it. Only methods that display data or

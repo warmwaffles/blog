@@ -1,4 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: Matthew Johnston
 email: warmwaffles@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -9,13 +23,14 @@ url: "http://www.mattjohnston.co" # the base hostname & protocol for your site
 twitter_username: warmwaffle
 github_username:  warmwaffles
 
-# Where things are
-source: .
-destination:  ./_site
-plugins_dir:  _plugins
-layouts_dir:  _layouts
-data_dir:     _data
-includes_dir: _includes
+# Build settings
+markdown: kramdown
+theme: pixyll
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-assets
+  - jekyll-paginate
 
 # Handling Reading
 safe: false
@@ -25,12 +40,22 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - Rakefile
   - TODO
   - tmp
 keep_files: []
 encoding: "utf-8"
+markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 # Filtering Content
 show_drafts: null
@@ -38,38 +63,28 @@ limit_posts: 0
 future:      false
 unpublished: false
 
-# Plugins
-whitelist: []
-gems:
-  - jekyll-sitemap
-  - jekyll-assets
-  - jekyll-paginate
-  - rouge
-  - kramdown
-  - uglifier
+# Plugin: jekyll-sitemap
+sitemap: true
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+# Plugin: jekyll-assets
+assets:
+  destination: "/assets"
 
-# Serving
-detach:  false
-port:    4000
-host:    127.0.0.1
-baseurl: "" # does not include hostname
-show_dir_listing: false
+# Markdown Processors
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
 
-# Outputting
 permalink: /posts/:year/:month/:day/:title.html
 paginate_path: /posts/page/:num
 paginate: 5
 timezone: null
-
-quiet:    false
-verbose:  false
 
 collections:
   posts:
@@ -85,41 +100,3 @@ defaults:
       type: "pages"
     values:
       layout: "project"
-
-
-liquid:
-  error_mode: warn
-
-sass:
-  style: compressed
-
-# Markdown Processors
-kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
-  input:          GFM
-  hard_wrap:      false
-  footnote_nr:    1
-
-# Plugin: jekyll-sitemap
-sitemap: true
-
-# Plugin: jekyll-assets
-assets:
-  dirname: assets
-  baseurl: /assets/
-  digest: true
-  sources:
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/images
-  js_compressor: uglifier
-  css_compressor: sass
-  cachebust: hard
-  cache: false
-  debug: false
-  features:
-    liquid: true

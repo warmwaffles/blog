@@ -26,10 +26,21 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
 ## Experience
 
+### Clearbit
+Software Engineer: October 2017 - Present
+
+[https://clearbit.com](https://clearbit.com)
+
 ### Envoy
-Platform Engineer: March 2014 - Present
+Platform Engineer: March 2014 - October 2017
 
 [https://envoy.com](https://envoy.com)
+
+* Focused on backend engineering.
+* Worked extensively with docker during development.
+* Worked extensively with ruby on rails.
+* Implemented various api end points that ipads and iphones interacted with.
+* Implemented an elixir application that was core to the micro service migration.
 
 ### KISSmetrics
 Senior Software Engineer: August 2013 - March 2014
