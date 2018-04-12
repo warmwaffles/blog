@@ -27,9 +27,11 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 ## Experience
 
 ### Clearbit
-Software Engineer: October 2017 - Present
+Software Engineer: October 2017 - April 2018
 
 [https://clearbit.com](https://clearbit.com)
+
+* Worked extensively with a microservice architecture.
 
 ### Envoy
 Platform Engineer: March 2014 - October 2017
