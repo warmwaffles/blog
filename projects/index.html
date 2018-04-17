@@ -3,9 +3,8 @@ layout: default
 title: Projects
 ---
 
-<!-- _projects/index.html -->
 <div class="projects">
-  {% for project in site.projects %}
+  {% for project in site.projects reversed %}
     {% include project.html %}
   {% endfor %}
 </div>

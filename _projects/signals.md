@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Signals
-date: 2015-03-14 12:00:00
+date: 2017-01-01 12:00:00
 ---
 
 [source code](https://github.com/warmwaffles/signals)

@@ -94,8 +94,7 @@ collections:
     permalink: /projects/:path/
     index: projects.html
 defaults:
-  -
-    scope:
+  - scope:
       path: "projects"
       type: "pages"
     values:
