@@ -7,7 +7,7 @@ comments: false
 
 I am a problem solver that enjoys working on the guts of an application. I have
 been primarly focused on Ruby development and Ruby on Rails applications for
-over 7 years. I enjoy new challenges and look forward to new opportunities.
+over 8 years. I enjoy new challenges and look forward to new opportunities.
 
 ## Education
 
@@ -31,18 +31,22 @@ Software Engineer: October 2017 - April 2018
 
 [https://clearbit.com](https://clearbit.com)
 
-* Worked extensively with a microservice architecture.
+* Backend engineering.
+* Worked extensively with Ruby and microservices.
+* Used kubernetes to coordinate deployments.
+* Worked with AWS Athena and Dyanmodb.
+* Optimized postgres queries extensively.
 
 ### Envoy
 Platform Engineer: March 2014 - October 2017
 
 [https://envoy.com](https://envoy.com)
 
-* Focused on backend engineering.
+* Backend engineering.
 * Worked extensively with docker during development.
-* Worked extensively with ruby on rails.
-* Implemented various api end points that ipads and iphones interacted with.
-* Implemented an elixir application that was core to the micro service migration.
+* Worked extensively with Rails 5.
+* Implemented various api endpoints that mobile devices would need to interact with.
+* Optimized postgres queries extensively.
 
 ### KISSmetrics
 Senior Software Engineer: August 2013 - March 2014
