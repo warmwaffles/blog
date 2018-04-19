@@ -12,9 +12,7 @@ complex logic that needs to be extracted out of a controller or model. There are
 some nice benefits to extracting complex things into a more testable interface.
 
 To avoid providing a contrived example, I will use similar code to how uploads
-on [rubyfm](https://ruby.fm) are handled. For the sake of brevity, I cut out
-calls to transcoding and other upload processing functions to really get at the
-crux of the point.
+on [rubyfm](https://ruby.fm) are handled.
 
 ```ruby
 class UploadService
