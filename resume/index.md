@@ -17,12 +17,9 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 ## Languages
 
   * Ruby
-  * Java
-  * Javascript
+  * Elixir
+  * JS
   * C
-  * PostgreSQL
-  * PHP
-  * Bash
 
 ## Experience
 
@@ -34,6 +31,7 @@ Software Engineer: October 2017 - April 2018
 * Backend engineering.
 * Worked extensively with Ruby and microservices.
 * Used kubernetes to coordinate deployments.
+* Sidekiq and Qless processing.
 * Worked with AWS Athena and Dyanmodb.
 * Optimized postgres queries extensively.
 
@@ -45,6 +43,7 @@ Platform Engineer: March 2014 - October 2017
 * Backend engineering.
 * Worked extensively with docker during development.
 * Worked extensively with Rails 5.
+* Sidekiq and Qless processing.
 * Implemented various api endpoints that mobile devices would need to interact with.
 * Optimized postgres queries extensively.
 
