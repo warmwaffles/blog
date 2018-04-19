@@ -35,7 +35,6 @@ class UploadService
 
     unless transcode
       logger.error { 'failed to transcode upload' }
-      logger.error { transcoder_errors }
       return false
     end
 
