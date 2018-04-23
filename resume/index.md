@@ -36,7 +36,7 @@ Software Engineer: October 2017 - April 2018
 * Optimized postgres queries extensively.
 
 ### Envoy
-Platform Engineer: March 2014 - October 2017
+Platform Engineer: March 2015 - October 2017
 
 [https://envoy.com](https://envoy.com)
 
@@ -48,7 +48,7 @@ Platform Engineer: March 2014 - October 2017
 * Optimized postgres queries extensively.
 
 ### KISSmetrics
-Senior Software Engineer: August 2013 - March 2014
+Senior Software Engineer: August 2013 - March 2015
 
 [https://kissmetrics.com](https://kissmetrics.com)
 
