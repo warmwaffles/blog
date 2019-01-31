@@ -15,5 +15,5 @@ task :build do
 end
 
 task :push => :build do
-  sh("s3_website push --verbose")
+  sh("bundle exec s3_website push --verbose")
 end

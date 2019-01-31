@@ -7,7 +7,7 @@ comments: false
 
 I am a problem solver that enjoys working on the guts of an application. I have
 been primarly focused on Ruby development and Ruby on Rails applications for
-over 8 years. I enjoy new challenges and look forward to new opportunities.
+over 10 years. I enjoy new challenges and look forward to new opportunities.
 
 ## Education
 
@@ -18,10 +18,26 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
   * Ruby
   * Elixir
-  * JS
-  * C
+  * Java / Kotlin
+  * Python
+  * C / C++
+
+## Ops Stuff
+
+  * Docker
+  * Kubernetes
 
 ## Experience
+
+### Vorstella
+Software Engineer: April 2018 - Present
+
+[https://vorstella.com](https://vorstella.com)
+
+* Backend engineering.
+* Worked with Python, Java, and Kotlin for machine learning.
+* Built a java agent to send metrics to our machine learning store.
+* Maintained Cassandra and Kafka storage systems.
 
 ### Clearbit
 Software Engineer: October 2017 - April 2018
@@ -118,6 +134,8 @@ Software Engineer: August 2009 - October 2011
 
 I enjoy playing with LibGDX and other various game platforms to gain knowledge
 while having fun doing it.
+
+I also toy with Elixir projects in my spare time.
 
 I like working with my hands and building things in my garage. Any where from
 cutting boards, welding, tearing motors apart, or just soldering electronics I
