@@ -30,7 +30,7 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 ## Experience
 
 ### Vorstella
-Software Engineer: April 2018 - Present
+Software Engineer: April 2018 - June 2019
 
 [https://vorstella.com](https://vorstella.com)
 
