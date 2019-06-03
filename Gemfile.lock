@@ -97,6 +97,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
     rack (2.0.6)
+    rake (12.3.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -137,6 +138,7 @@ DEPENDENCIES
   jekyll-paginate (~> 1.1.0)
   jekyll-sitemap (~> 1.2.0)
   pixyll!
+  rake
   redcarpet (~> 3.4.0)
   rouge (~> 3.3.0)
   s3_website (~> 3.4.0)

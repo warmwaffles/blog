@@ -10,6 +10,7 @@ gem "s3_website",  "~> 3.4.0"
 gem "dotenv",      "~> 1.0.0"
 gem "tzinfo-data", "~> 1.2018.9"
 gem "pixyll", path: 'pixyll'
+gem "rake"
 
 group :jekyll_plugins do
   gem "jekyll-assets",   "~> 3.0.12"
