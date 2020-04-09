@@ -9,66 +9,90 @@ I am a problem solver that enjoys working on the guts of an application. I have
 been primarly focused on Ruby development and Ruby on Rails applications for
 over 10 years. I enjoy new challenges and look forward to new opportunities.
 
+
 ## Education
 
 Graduated from The University of Texas at San Antonio with a Bachelor's degree
 in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
+
 ## Languages
 
-  * Ruby
-  * Elixir
-  * Java / Kotlin
-  * Python
-  * C / C++
+  * Ruby - 10 years
+  * Elixir - 2 years
+  * Java - 10 years
+  * Kotlin - 2 years
+  * Python - 2 years
+  * C / C++ - 10 years
+
+
+## Frameworks
+
+  * Ruby on Rails - 10 years
+  * Sinatra - 5 years
+  * Spring - 2 years
+  * Phoenix - 2 years
+
 
 ## Ops Stuff
 
-  * Docker
-  * Kubernetes
+  * Docker ~ 5 years
+  * Kubernetes ~ 2 years
+
 
 ## Experience
+
+### Search Nurture
+Software Engineer: June 2019 - Present
+[https://searchnurture.com](https://searchnurture.com)
+
+* Aggregated all data from Amazon’s advertising API for marketers to present
+  graphs and progress to customers.
+* Automated keyword and campaign bulk support to improve marketer’s use of time.
+* Automated deployment of api service and database migrations.
 
 ### Vorstella
 Software Engineer: April 2018 - June 2019
 
 [https://vorstella.com](https://vorstella.com)
 
-* Backend engineering.
-* Worked with Python, Java, and Kotlin for machine learning.
-* Built a java agent to send metrics to our machine learning store.
-* Maintained Cassandra and Kafka storage systems.
+* Reduced running costs by utilizing Elasticsearch instead of Google Big Table
+  by approximately 400%. (Over utilization of Big Table)
+* Refactored the data processing pipeline to consume less memory which allowed
+  us to utilize our CPU and memory allocation more effectively.
+* Managed and scaled the data processing pipeline to handle 1,000/s of messages
+  a second.
 
 ### Clearbit
 Software Engineer: October 2017 - April 2018
 
 [https://clearbit.com](https://clearbit.com)
 
-* Backend engineering.
-* Worked extensively with Ruby and microservices.
-* Used kubernetes to coordinate deployments.
-* Sidekiq and Qless processing.
-* Worked with AWS Athena and Dyanmodb.
-* Optimized postgres queries extensively.
+* Utilized microservices to separate business logic for future maintainability
+  and stability.
+* Worked with the data science team in getting data into AWS Athena so that they
+  could see how data was changing and finding discrepancies between data
+  sources.
+* Refactored our company news microserver to increase throughput by 4x.
 
 ### Envoy
 Platform Engineer: March 2015 - October 2017
 
 [https://envoy.com](https://envoy.com)
 
-* Backend engineering.
-* Worked extensively with docker during development.
-* Worked extensively with Rails 5.
-* Sidekiq and Qless processing.
-* Implemented various api endpoints that mobile devices would need to interact with.
-* Optimized postgres queries extensively.
+* Implemented a Rails application to handle thousands of iPads to connect to and
+  allowed us to continue to host on Heroku and keep infrastructure costs low.
+* During development we switched to using Docker and Docker Compose for local
+  development to create deterministic test runs. This provided our team a
+  universal way to run and test code.
+* Implemented the authorization, authentication, and identity system into a
+  separate system to handle SAML logins and SCIM employee directories.
 
 ### KISSmetrics
 Senior Software Engineer: August 2013 - March 2015
 
 [https://kissmetrics.com](https://kissmetrics.com)
 
-  * Full stack engineer
   * Refactoring a large monolithic application into a service oriented
     application
   * Implementing and maintaining the API at KISSmetrics
@@ -77,11 +101,16 @@ Senior Software Engineer: August 2013 - March 2015
   * Developed modular railtie and engines to be mounted
   * Unified out API requests and maintained a consistent return. Ensured the
     values followed a specific format and obeyed backwards compatibility.
+  * Began the process of upgrading from Ruby 1.8.6 to Ruby 2.0. Many gems were
+    no longer receiving security updates and this gave us a path to keeping
+    customer data safer.
+  * Core infrastructure was a Sinatra application that needed to be split apart
+    into modularized services that would allow teams to ship faster and in
+    parallel.
 
 ### ZippyKid (now Pressable)
 Senior Software Engineer: March 2012 - August 2013
 
-  * Full stack engineer
   * Ruby on Rails control panel
   * Maintain MyZippyKid control panel
   * Used Pivotal Tracker to augment our Agile development

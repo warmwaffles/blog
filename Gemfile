@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.5.0"
+ruby "2.6.3"
 
 gem "jekyll",      "~> 3.8.5"
 gem "rouge",       "~> 3.3.0"
