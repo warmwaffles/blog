@@ -4,7 +4,7 @@ ruby "2.6.3"
 
 gem "jekyll",      "~> 3.8.5"
 gem "rouge",       "~> 3.3.0"
-gem "redcarpet",   "~> 3.4.0"
+gem "redcarpet",   "~> 3.5.1"
 gem "uglifier",    "~> 4.1.20"
 gem "s3_website",  "~> 3.4.0"
 gem "dotenv",      "~> 1.0.0"
