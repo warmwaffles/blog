@@ -1,0 +1,49 @@
+baseURL: https://mattjohnston.co/
+languageCode: en-us
+title: Matthew Johnston
+theme: papermod
+paginate: 10
+
+enableRobotsTXT: true
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+    menu:
+      main:
+        - name: Resume
+          url: resume
+          weight: 5
+        - name: Posts
+          url: posts
+          weight: 5
+        - name: Projects
+          url: projects
+          weight: 5
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  ShowShareButtons: false
+  profileMode:
+    enabled: true
+    title: Howdy
+    subtitle: Follow my shenanigans
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Github
+        url: https://github.com/warmwaffles/
+      - name: Source Hut
+        url: https://sr.ht/~warmwaffles/
+      - name: Twitter
+        url: https://twitter.com/warmwaffle
