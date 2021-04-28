@@ -1,8 +1,6 @@
 ---
 title: Flying with php
-date: 2012-11-30T12:00:00
-comments: false
-sharing: false
+date: 2012-11-30
 categories:
   - programming
   - php

@@ -1,8 +1,6 @@
 ---
 title: Ruby Mixin Exploration
-date: 2013-03-20T12:00:00
-comments: false
-sharing: false
+date: 2013-03-20
 categories:
   - testing
   - ruby

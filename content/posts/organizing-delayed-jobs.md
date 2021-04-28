@@ -1,8 +1,6 @@
 ---
 title: Organizing Delayed Jobs
-date: 2012-12-13T12:00:00
-comments: false
-sharing: false
+date: 2012-12-13
 categories:
   - ruby
   - background jobs

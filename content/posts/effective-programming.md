@@ -1,8 +1,6 @@
 ---
 title: Effective Programming
-date: 2012-01-14T12:00:00
-comments: false
-sharing: false
+date: 2012-01-14
 categories:
   - programming
 ---

@@ -1,6 +1,6 @@
 ---
 title: Error Helpers in C
-date: 2017-01-09T12:00:00
+date: 2017-01-09
 categories:
   - c
   - debugging

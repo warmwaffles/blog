@@ -1,6 +1,6 @@
 ---
 title: Ruby Mixins
-date: 2015-01-17T12:00:00
+date: 2015-01-17
 categories:
   - ruby
 ---

@@ -1,8 +1,6 @@
 ---
 title: Responding With Errors in Rails
-date: 2013-10-18T12:00:00
-comments: true
-sharing: false
+date: 2013-10-18
 categories:
   - rails
   - ruby

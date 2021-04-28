@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Command Objects
-date: 2013-07-10T12:00:00
-comments: false
-sharing: false
+date: 2013-07-10
 categories:
   - ruby
   - oop

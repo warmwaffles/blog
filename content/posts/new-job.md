@@ -1,8 +1,6 @@
 ---
 title: New Job
-date: 2012-03-01T12:00:00
-comments: false
-sharing: false
+date: 2012-03-01
 categories:
   - job
   - zippykid

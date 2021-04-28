@@ -1,8 +1,6 @@
 ---
 title: Stand Up Desk DIY
-date: 2013-01-05T12:00:00
-comments: false
-sharing: false
+date: 2013-01-05
 categories:
   - health
   - diy

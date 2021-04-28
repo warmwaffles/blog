@@ -1,8 +1,6 @@
 ---
 title: High Level Low Level Compilation
-date: 2012-08-08T12:00:00
-comments: false
-sharing: false
+date: 2012-08-08
 categories:
   - programming
   - compilers

@@ -1,8 +1,6 @@
 ---
 title: State Machines
-date: 2013-07-09 12:00:00 -0600
-comments: false
-sharing: false
+date: 2013-07-09
 categories:
   - ruby
   - rails

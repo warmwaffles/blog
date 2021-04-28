@@ -1,8 +1,6 @@
 ---
 title: Services and Pub Sub
-date: 2013-07-03T12:00:00
-comments: false
-sharing: false
+date: 2013-07-03
 categories:
   - ruby
   - refactoring

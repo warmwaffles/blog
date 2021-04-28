@@ -1,8 +1,6 @@
 ---
 title: Query Objects
-date: 2013-04-19T12:00:00
-comments: false
-sharing: false
+date: 2013-04-19
 categories:
   - ruby
   - refactoring

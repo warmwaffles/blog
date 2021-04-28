@@ -1,8 +1,6 @@
 ---
 title: Exceptional Rails Handling
-date: 2012-03-25T12:00:00
-comments: false
-sharing: false
+date: 2012-03-25
 categories:
   - ruby
   - exceptions

@@ -1,8 +1,6 @@
 ---
 title: A Ruby Yukata
-date: 2014-03-07T12:00:00
-comments: false
-sharing: false
+date: 2014-03-07
 categories:
   - ruby
 ---

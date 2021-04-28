@@ -1,8 +1,6 @@
 ---
 title: Test Spies
-date: 2013-10-01T12:00:00
-comments: false
-sharing: false
+date: 2013-10-01
 categories:
   - ruby
   - rspec

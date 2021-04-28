@@ -1,6 +1,6 @@
 ---
 title: RubyFM
-date: 2018-01-01T12:00:00
+date: 2018-01-01
 ---
 
 [Check it out here](https://ruby.fm)

@@ -1,6 +1,6 @@
 ---
 title: Service Objects for Good
-date: 2018-04-18T12:00:00
+date: 2018-04-18
 categories:
   - ruby
   - rails
