@@ -1,9 +1,7 @@
 ---
-layout: post
 title: C Project Structure
-date: 2016-05-30 12:00:00
-comments: false
-sharing: false
+date: 2016-05-30
+draft: true
 categories:
   - C
 ---

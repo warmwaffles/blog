@@ -1,7 +1,7 @@
 ---
-layout: post
 title: CMake, Or Not To CMake
-date: 2016-08-19 12:00:00
+date: 2016-08-19
+draft: true
 categories:
   - CMake
   - Build Tools

@@ -1,3 +1,11 @@
+---
+title: Elixir Distributed SQLite Databases
+date: 2021-04-29
+draft: true
+categories:
+  - elixir
+---
+
 # Elixir Distributed SQLite Databases
 
 Title is a work in progress.
