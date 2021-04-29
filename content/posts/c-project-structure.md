@@ -1,6 +1,5 @@
 ---
 title: C Project Structure
-date: 2016-05-30
 draft: true
 categories:
   - C

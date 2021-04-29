@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Command Objects
 date: 2013-07-10
 categories:

@@ -1,6 +1,5 @@
 ---
 title: CMake, Or Not To CMake
-date: 2016-08-19
 draft: true
 categories:
   - CMake

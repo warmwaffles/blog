@@ -1,6 +1,5 @@
 ---
 title: Elixir Distributed SQLite Databases
-date: 2021-04-29
 draft: true
 categories:
   - elixir
