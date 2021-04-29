@@ -2,6 +2,8 @@
 title: Responding With Errors in Rails
 date: 2013-10-18
 categories:
+  - Development
+tags:
   - rails
   - ruby
 ---

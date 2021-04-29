@@ -2,6 +2,8 @@
 title: A Ruby Yukata
 date: 2014-03-07
 categories:
+  - Development
+tags:
   - ruby
 ---
 

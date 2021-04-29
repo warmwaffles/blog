@@ -2,6 +2,8 @@
 title: Task Based Threading
 date: 2013-06-29
 categories:
+  - Development
+tags:
   - java
   - threading
 ---

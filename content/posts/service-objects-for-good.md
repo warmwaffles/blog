@@ -2,6 +2,8 @@
 title: Service Objects for Good
 date: 2018-04-18
 categories:
+  - Development
+tags:
   - ruby
   - rails
 ---

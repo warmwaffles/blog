@@ -2,6 +2,8 @@
 title: Null Objects
 date: 2013-06-24
 categories:
+  - Development
+tags:
   - ruby
   - rails
 ---

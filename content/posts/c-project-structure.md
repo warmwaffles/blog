@@ -2,7 +2,9 @@
 title: C Project Structure
 draft: true
 categories:
-  - C
+  - Development
+tags:
+  - c
 ---
 
 I've been working with C a little more in my free time. Tinkering with OpenGL

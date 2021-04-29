@@ -2,6 +2,8 @@
 title: State Machines
 date: 2013-07-09
 categories:
+  - Development
+tags:
   - ruby
   - rails
 ---

@@ -2,6 +2,8 @@
 title: No Internet Means Better Test Isolation
 date: 2013-02-01
 categories:
+  - Development
+tags:
   - testing
   - ruby
   - rspec

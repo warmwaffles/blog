@@ -2,8 +2,9 @@
 title: CMake, Or Not To CMake
 draft: true
 categories:
-  - CMake
-  - Build Tools
+  - Development
+tags:
+  - cmake
 ---
 
 I've been using CMake for quite some time now and feel that it's a very

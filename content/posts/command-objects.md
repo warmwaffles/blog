@@ -2,8 +2,9 @@
 title: Command Objects
 date: 2013-07-10
 categories:
+  - Development
+tags:
   - ruby
-  - oop
 ---
 
 In any Unix based OS the command line reigns supreme. Commmands are predictable,

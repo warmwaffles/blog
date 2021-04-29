@@ -2,11 +2,9 @@
 title: Services and Pub Sub
 date: 2013-07-03
 categories:
+  - Development
+tags:
   - ruby
-  - refactoring
-  - signals
-  - pattern
-  - oop
 ---
 
 The Publish-Subscribe pattern is a great way to make code modular and decoupled

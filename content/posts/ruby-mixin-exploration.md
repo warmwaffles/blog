@@ -2,6 +2,8 @@
 title: Ruby Mixin Exploration
 date: 2013-03-20
 categories:
+  - Development
+tags:
   - testing
   - ruby
   - rspec

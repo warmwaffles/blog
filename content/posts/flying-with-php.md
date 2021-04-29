@@ -2,7 +2,8 @@
 title: Flying with php
 date: 2012-11-30
 categories:
-  - programming
+  - Development
+tags:
   - php
 ---
 

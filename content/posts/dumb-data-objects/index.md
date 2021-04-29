@@ -2,9 +2,10 @@
 title: Dumb Data Objects
 date: 2013-07-07
 categories:
+  - Development
+tags:
   - ruby
   - rails
-  - oop
 ---
 
 As a Rails application grows and evolves. Fat models often become rampant in the

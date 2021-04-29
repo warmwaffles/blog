@@ -2,8 +2,7 @@
 title: I Graduated
 date: 2012-12-20
 categories:
-  - school
-  - achievement
+  - School
 ---
 
 Finally! I have graduated from the University of Texas at San Antonio with a

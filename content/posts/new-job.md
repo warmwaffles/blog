@@ -2,8 +2,7 @@
 title: New Job
 date: 2012-03-01
 categories:
-  - job
-  - zippykid
+  - Job
 ---
 
 Well I transitioned out from my previous job working for Enfocus Solutions to

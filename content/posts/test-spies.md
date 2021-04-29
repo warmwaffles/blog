@@ -2,6 +2,8 @@
 title: Test Spies
 date: 2013-10-01
 categories:
+  - Development
+tags:
   - ruby
   - rspec
 ---

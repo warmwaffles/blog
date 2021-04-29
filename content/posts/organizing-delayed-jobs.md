@@ -2,6 +2,8 @@
 title: Organizing Delayed Jobs
 date: 2012-12-13
 categories:
+  - Development
+tags:
   - ruby
   - background jobs
 ---

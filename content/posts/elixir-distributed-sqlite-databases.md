@@ -2,6 +2,8 @@
 title: Elixir Distributed SQLite Databases
 draft: true
 categories:
+  - Development
+tags:
   - elixir
 ---
 

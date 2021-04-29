@@ -2,7 +2,7 @@
 title: Effective Programming
 date: 2012-01-14
 categories:
-  - programming
+  - Development
 ---
 
 I've been programming for the last 6 years and I have a bunch of programming

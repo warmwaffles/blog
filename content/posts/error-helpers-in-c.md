@@ -2,6 +2,8 @@
 title: Error Helpers in C
 date: 2017-01-09
 categories:
+  - Development
+tags:
   - c
   - debugging
 ---

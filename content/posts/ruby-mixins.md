@@ -2,6 +2,8 @@
 title: Ruby Mixins
 date: 2015-01-17
 categories:
+  - Development
+tags:
   - ruby
 ---
 

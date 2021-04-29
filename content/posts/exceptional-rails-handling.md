@@ -2,9 +2,10 @@
 title: Exceptional Rails Handling
 date: 2012-03-25
 categories:
+  - Development
+tags:
   - ruby
   - exceptions
-  - best practices
 ---
 
 When I am writing a Rails application it starts out simple with a few

@@ -2,6 +2,8 @@
 title: Query Objects
 date: 2013-04-19
 categories:
+  - Development
+tags:
   - ruby
   - refactoring
 ---

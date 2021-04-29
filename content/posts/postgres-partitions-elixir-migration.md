@@ -2,6 +2,8 @@
 title: Postgres Partitions in Elixir Migration
 date: 2019-06-03
 categories:
+  - Development
+tags:
   - postgres
   - elixir
   - ecto
