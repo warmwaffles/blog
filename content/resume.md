@@ -17,6 +17,7 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
   * Ruby - 12 years
   * C / C++ - 12 years
+  * Java - 12 years
   * Python - 5 years
   * Elixir - 4 years
   * Erlang - 1 year
