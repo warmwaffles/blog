@@ -2,9 +2,9 @@
 title: Resume
 ---
 
-I am a problem solver that enjoys working on the guts of an application. I have
-been primarly focused on Ruby development and Ruby on Rails applications for
-over 10 years. I enjoy new challenges and look forward to new opportunities.
+I am a problem solver that enjoys working on the guts of an application. I am able to
+work in almost any language for server side data processing. I enjoy new challenges and
+look forward to new opportunities.
 
 
 ## Education
@@ -15,39 +15,28 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
 ## Languages
 
-  * Ruby - 11 years
-  * C / C++ - 11 years
-  * Java - 10 years
-  * Elixir - 3 years
-  * Kotlin - 2 years
-  * Python - 3 years
-
-
-## Frameworks
-
-  * Ruby on Rails - 10 years
-  * Sinatra - 5 years
-  * Django - 3 years
-  * Spring - 2 years
-  * Phoenix - 2 years
-
-
-## Ops Stuff
-
-  * Docker ~ 5 years
-  * Kubernetes ~ 2 years
+  * Ruby - 12 years
+  * C / C++ - 12 years
+  * Python - 5 years
+  * Elixir - 4 years
+  * Erlang - 1 year
 
 
 ## Experience
 
 ### Search Nurture
 Software Engineer: June 2019 - Present
+
 [https://searchnurture.com](https://searchnurture.com)
 
-* Aggregated all data from Amazon’s advertising API for marketers to present
-  graphs and progress to customers.
-* Automated keyword and campaign bulk support to improve marketer’s use of time.
-* Automated deployment of api service and database migrations.
+* Utilized django and django-rest-framework to serve api.
+* Implemented day parting automation tool for Amazon and Instacart where keyword bids
+  would change up and down through out the day.
+* Built a flexible filtering system for the dashboard to query timeseries data in
+  aggregate to aid Account Managers in their decision making.
+* Implemented a robust data synchronization for Amazon that would handle service
+  interruptions.
+
 
 ### Vorstella
 Software Engineer: April 2018 - June 2019
@@ -156,6 +145,8 @@ Software Engineer: August 2009 - October 2011
   * Eagle Scout recipient, Boy Scouts of America, earned in 2007
   * Rebuilt and maintain a 1972 BMW 2002 model as my daily driver
   * Built my standing desk from scratch
+  * Built [Exqlite](https://github.com/elixir-sqlite/exqlite) with intermittent power in
+    Texas in February of 2021.
 
 ## Free Time Activities
 
