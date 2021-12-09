@@ -3,7 +3,8 @@ title: Exqlite
 date: 2021-04-28
 ---
 
-An elixir library to interface with SQLite3.
+An elixir library to interface with SQLite3. It's quick an easy to get running and works
+well on embeded Nerves projects.
 
 [source code](https://github.com/elixir-sqlite/exqlite)
 
