@@ -21,6 +21,11 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
   * Elixir - 4 years
   * Erlang - 1 year
 
+## Open Source
+
+  * Wrote and maintain [Exqlite](https://github.com/elixir-sqlite/exqlite).
+  * Wrote and maintain [Ecto SQLite3](https://github.com/elixir-sqlite/ecto_sqlite3).
+
 
 ## Experience
 
@@ -131,8 +136,6 @@ Software Engineer: August 2009 - October 2011
 
 ## Libraries Written
 
-  * [Ecto SQLite3](https://github.com/elixir-sqlite/ecto_sqlite3)
-  * [Exqlite](https://github.com/elixir-sqlite/exqlite)
   * [Wellness](https://github.com/warmwaffles/wellness)
   * [Skeleton](https://github.com/warmwaffles/skeleton)
   * [Yukata](https://github.com/warmwaffles/yukata)
