@@ -2,15 +2,12 @@
 title: Resume
 ---
 
-I am a problem solver that enjoys working on the guts of an application. I am able to
-work in almost any language for server side data processing. I enjoy new challenges and
-look forward to new opportunities.
+I am a problem solver that enjoys working on the guts of an application. I am able to work in almost any language for server side data processing. I enjoy new challenges and look forward to new opportunities.
 
 
 ## Education
 
-Graduated from The University of Texas at San Antonio with a Bachelor's degree
-in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
+Graduated from The University of Texas at San Antonio with a Bachelor's degree in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
 
 ## Languages
@@ -22,10 +19,16 @@ in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
   * Elixir - 4 years
   * Erlang - 1 year
 
+
 ## Open Source
 
-  * Wrote and maintain [Exqlite](https://github.com/elixir-sqlite/exqlite).
-  * Wrote and maintain [Ecto SQLite3](https://github.com/elixir-sqlite/ecto_sqlite3).
+### [Exqlite](https://github.com/elixir-sqlite/exqlite)
+
+I actively maintain this library for Elixir to interact with SQLite3. Initially made in February 2021 when Texas was going through the power outages, I needed a project to pass the time that would work offline and on embedded devices.
+
+### [Ecto SQLite3](https://github.com/elixir-sqlite/ecto_sqlite3)
+
+I actively maintain this library for Ecto to utilize the Exqlite project. This is useful for embedded devices that want to utilize a database.
 
 
 ## Experience
@@ -123,20 +126,16 @@ Software Engineer: August 2009 - October 2011
   * [Skeleton](https://github.com/warmwaffles/skeleton)
   * [Yukata](https://github.com/warmwaffles/yukata)
   * [Signals](https://github.com/warmwaffles/signals)
-  * [Splicer](https://github.com/zippykid/splicer)
-  * [Charger](https://github.com/warmwaffles/charger)
 
 ## Personal Achievements
 
-  * Eagle Scout recipient, Boy Scouts of America, earned in 2007
-  * Rebuilt and maintain a 1972 BMW 2002 model as my daily driver
-  * Built my standing desk from scratch
+  * Eagle Scout recipient, Boy Scouts of America, earned in 2007.
+  * Rebuilt my first car, a 1972 BMW that I have owned since 2003. I am in the process of turning it into a race car.
+  * Built my standing desk from solid oak tongue and groove boards.
   * Built [Exqlite](https://github.com/elixir-sqlite/exqlite) with intermittent power in Texas in February of 2021.
 
 ## Free Time Activities
 
-I enjoy playing with LibGDX and other various game platforms to gain knowledge while having fun doing it.
-
-I also toy with Elixir projects in my spare time.
+I enjoy working on open source projects and improving tools that other people use.
 
 I like working with my hands and building things in my garage. Any where from cutting boards, welding, tearing motors apart, or just soldering electronics I really enjoy doing.
