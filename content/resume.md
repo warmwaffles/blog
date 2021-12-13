@@ -43,7 +43,7 @@ Software Engineer: June 2019 - Present
 * Implemented day parting automation tool for Amazon and Instacart where keyword bids would change up and down through out the day.
 * Built a flexible filtering system for the dashboard to query timeseries data in aggregate to aid Account Managers in their decision making.
 * Implemented a robust data synchronization for Amazon that would handle service interruptions.
-
+* Managed and maintained infrastructure with Kubernetes and kustomize.
 
 ### Vorstella
 Software Engineer: April 2018 - June 2019
@@ -51,6 +51,7 @@ Software Engineer: April 2018 - June 2019
 * Reduced running costs by utilizing Elasticsearch instead of Google Big Table by approximately 400%. (Over utilization of Big Table)
 * Refactored the data processing pipeline to consume less memory which allowed us to utilize our CPU and memory allocation more effectively.
 * Managed and scaled the data processing pipeline to handle 1,000/s of messages a second.
+* Managed and maintained infrastructure with Kubernetes.
 
 ### Clearbit
 Software Engineer: October 2017 - April 2018
@@ -60,6 +61,7 @@ Software Engineer: October 2017 - April 2018
 * Utilized microservices to separate business logic for future maintainability and stability.
 * Worked with the data science team in getting data into AWS Athena so that they could see how data was changing and finding discrepancies between data sources.
 * Refactored our company news microserver to increase throughput by 4x.
+* Utilized Kubernetes with BuildKite for deployments.
 
 ### Envoy
 Platform Engineer: March 2015 - October 2017
