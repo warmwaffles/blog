@@ -4,6 +4,7 @@ title: Resume
 
 I am a problem solver that enjoys working on the guts of an application. I am able to work in almost any language for server side data processing. I enjoy new challenges and look forward to new opportunities.
 
+[LinkedIn](https://www.linkedin.com/in/matthew-johnston-a5817733/)
 
 ## Education
 
