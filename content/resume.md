@@ -35,7 +35,7 @@ I actively maintain this library for Ecto to utilize the Exqlite project. This i
 ## Experience
 
 ### Search Nurture
-Software Engineer: June 2019 - Present
+Software Engineer: June 2019 - December 2021
 
 [https://searchnurture.com](https://searchnurture.com)
 
