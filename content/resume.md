@@ -34,6 +34,15 @@ I actively maintain this library for Ecto to utilize the Exqlite project. This i
 
 ## Experience
 
+### Vic.ai
+Senior Elixir Engineer: January 2022 - Present
+
+[https://vic.ai](https://vic.ai)
+
+* Maintain AI processing pipeline that is orchestrated by Elixir.
+* Maintain multiple internal Elixir libraries and their dependencies.
+
+
 ### Search Nurture
 Software Engineer: June 2019 - December 2021
 
