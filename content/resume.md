@@ -16,39 +16,40 @@ Graduated from The University of Texas at San Antonio with a Bachelor's degree i
   * Ruby - 12 years
   * C / C++ - 12 years
   * Java - 12 years
-  * Python - 5 years
-  * Elixir - 4 years
-  * Erlang - 1 year
+  * Python - 9 years
+  * Elixir - 8 years
+  * Erlang - 3 years
 
 
 ## Open Source
 
-### [Exqlite](https://github.com/elixir-sqlite/exqlite)
+### [Elixix - Exqlite](https://github.com/elixir-sqlite/exqlite)
 
 I actively maintain this library for Elixir to interact with SQLite3. Initially made in February 2021 when Texas was going through the power outages, I needed a project to pass the time that would work offline and on embedded devices.
 
-### [Ecto SQLite3](https://github.com/elixir-sqlite/ecto_sqlite3)
+### [Elixir - Ecto SQLite3](https://github.com/elixir-sqlite/ecto_sqlite3)
 
 I actively maintain this library for Ecto to utilize the Exqlite project. This is useful for embedded devices that want to utilize a database.
-
 
 ## Experience
 
 ### Vic.ai
-Senior Elixir Engineer: January 2022 - Present
+Senior Platform Engineer: January 2022 - Present
 
 [https://vic.ai](https://vic.ai)
 
-* Maintain AI processing pipeline that is orchestrated by Elixir.
-* Maintain multiple internal Elixir libraries and their dependencies.
-
+* Designed, built, and documented a scalable REST API in modern Elixir, enabling seamless third-party integrations and direct customer consumption.
+* Architected and led development of a robust payment platform that has securely processed and transferred millions of dollars weekly.
+* Modernized legacy systems and brought the entire platform up to current engineering standards, significantly improving reliability, maintainability, and performance.
+* Implemented best-in-class Elixir patterns, OTP principles, and observability tooling to create a high-throughput, fault-tolerant payment infrastructure.
+* Leveraged AI development tools (Claude, Codex, Pi, OpenCode) to accelerate development velocity, improve code quality, and streamline documentation processes.
 
 ### Search Nurture
 Software Engineer: June 2019 - December 2021
 
 [https://searchnurture.com](https://searchnurture.com)
 
-* Utilized django and django-rest-framework to serve api.
+* Utilized django and django-rest-framework to serve a REST API.
 * Implemented day parting automation tool for Amazon and Instacart where keyword bids would change up and down through out the day.
 * Built a flexible filtering system for the dashboard to query timeseries data in aggregate to aid Account Managers in their decision making.
 * Implemented a robust data synchronization for Amazon that would handle service interruptions.
@@ -95,7 +96,6 @@ Software Engineer: August 2013 - March 2015
 * Began the process of upgrading from Ruby 1.8.6 to Ruby 2.0. Many gems were no longer receiving security updates and this gave us a path to keeping customer data safer.
 * Core infrastructure was a Sinatra application that needed to be split apart into modularized services that would allow teams to ship faster and in parallel.
 
-
 ### ZippyKid (now Pressable)
 Senior Software Engineer: March 2012 - August 2013
 
@@ -126,11 +126,11 @@ Software Engineer: March 2011 – June 2011
 ### iTEC at UTSA
 Software Engineer: August 2009 - October 2011
 
-  * Installed physical server in data center
-  * Installed / maintained Ubuntu server
-  * Designed site interface
-  * Implemented in PHP (CodeIgniter) then transitioned to Ruby on Rails
-  * Built a security audit system for the site
+  * Installed physical server in data center.
+  * Installed / maintained Ubuntu server.
+  * Designed site interface.
+  * Implemented in PHP (CodeIgniter) then transitioned to Ruby on Rails.
+  * Built a security audit system for the site.
 
 ## Libraries Written
 
