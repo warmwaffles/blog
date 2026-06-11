@@ -48,8 +48,8 @@ params:
       - name: Posts
         url: posts
       - name: Github
-        url: https://github.com/warmwaffles/
-      - name: Source Hut
-        url: https://sr.ht/~warmwaffles/
-      - name: Twitter
+        url: https://github.com/warmwaffles
+      - name: Codeberg
+        url: https://codeberg.org/warmwaffles
+      - name: X
         url: https://twitter.com/warmwaffle
