@@ -10,16 +10,14 @@ I am a problem solver that enjoys working on the guts of an application. I am ab
 
 Graduated from The University of Texas at San Antonio with a Bachelor's degree in Computer Science with a concentration in Software Engineering. **GPA: 3.67**
 
-
 ## Languages
 
-  * Ruby - 12 years
-  * C / C++ - 12 years
-  * Java - 12 years
+  * Ruby - 18 years
+  * C / C++ - 18 years
+  * Java - 18 years
   * Python - 9 years
   * Elixir - 8 years
   * Erlang - 3 years
-
 
 ## Open Source
 
