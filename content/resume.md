@@ -12,9 +12,9 @@ Graduated from The University of Texas at San Antonio with a Bachelor's degree i
 
 ## Languages
 
-  * Ruby - 18 years
   * C / C++ - 18 years
   * Java - 18 years
+  * Ruby - 14 years
   * Python - 9 years
   * Elixir - 8 years
   * Erlang - 3 years
