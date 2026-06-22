@@ -21,7 +21,7 @@ Graduated from The University of Texas at San Antonio with a Bachelor's degree i
 
 ## Open Source
 
-### [Elixix - Exqlite](https://github.com/elixir-sqlite/exqlite)
+### [Elixir - Exqlite](https://github.com/elixir-sqlite/exqlite)
 
 I actively maintain this library for Elixir to interact with SQLite3. Initially made in February 2021 when Texas was going through the power outages, I needed a project to pass the time that would work offline and on embedded devices.
 
