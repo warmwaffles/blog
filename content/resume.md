@@ -31,8 +31,17 @@ I actively maintain this library for Ecto to utilize the Exqlite project. This i
 
 ## Experience
 
+### Level All
+
+Senior Software Engineer: July 2026 - Present
+
+[https://levelall.com](https://levelall.com)
+
+* Maintained a growing Elixir application that serves a REST api to the vue.js backed front end.
+* Built a custom agent harness to complete tasks given in an efficient manner.
+
 ### Vic.ai
-Senior Platform Engineer: January 2022 - Present
+Senior Platform Engineer: January 2022 - July 2026
 
 [https://vic.ai](https://vic.ai)
 
